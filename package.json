@@ -2,7 +2,7 @@
   "name": "my-note",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "my note",
   "keywords": [],
   "dependencies": {
     "ejs": "~0.8.4",
@@ -32,8 +32,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anonymous node/sails user/my-note.git"
+    "url": "https://github.com/xieyuqian/my-note.git"
   },
-  "author": "anonymous node/sails user",
+  "author": "xieyuqian",
   "license": ""
 }
